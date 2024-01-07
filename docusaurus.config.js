@@ -16,7 +16,7 @@ const config = {
   url: 'https://uabluerail.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/faq/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -80,7 +80,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            label: 'Bluesky',
+            label: '@uabluerail.org',
             href: 'https://bsky.app/profile/uabluerail.org',
           },
           {
