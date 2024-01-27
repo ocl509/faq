@@ -122,6 +122,7 @@ sidebar_label: Забанити всю русню
 [^2]: Апеляції
 
 	Перевірити, в якому саме ви списку: [bsky.thieflord.dev](https://bsky.thieflord.dev)
+
 	![image](https://github.com/uabluerail/faq/assets/1822434/578c8f4c-b5ce-4e75-8426-c666a9e7d6fa)
 	
 	Якщо ви випадково потрапили в списки, які ведуться вручну (списки 1-4 та 7, 8) - напишіть нам [@appeal.mobik.zip](https://bsky.app/profile/appeal.mobik.zip) і ми приберемо вас зі списку.
@@ -129,6 +130,8 @@ sidebar_label: Забанити всю русню
 	:::danger[Увага!]
 
 	Якщо вас заблоковано акаунтом [@appeal.mobik.zip](https://bsky.app/profile/appeal.mobik.zip) - навпаки, немає про що хвилюватись, - це значить що ви вже Українському Кластері! Враховуючи те, що акаунту [@appeal.mobik.zip](https://bsky.app/profile/appeal.mobik.zip) потрібно буде взаємодіяти з російським кластером, заради безпеки і уникнення взаємодій з Українським кластером - преглянути акаунт [@appeal.mobik.zip](https://bsky.app/profile/appeal.mobik.zip) можна лише з чистого акаунта, або з акаунта, який не перебуває в Українському кластері. Також це є зручним і швидким способом перевірити в якому кластері знаходиться ваш акаунт.
+
+	![image](https://github.com/uabluerail/faq/assets/1822434/97c03475-73ac-4a77-a52e-897122395132)
 
 	:::
 
