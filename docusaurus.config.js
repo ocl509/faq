@@ -34,6 +34,12 @@ const config = {
     locales: ['uk'],
   },
 
+  markdown: {
+    remarkRehypeOptions: {
+      footnoteLabel: 'Примітки',
+    },
+  },
+
   presets: [
     [
       'classic',
