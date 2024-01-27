@@ -10,7 +10,8 @@ sidebar_label: Забанити всю русню
 Акаунт [`@mods.mobik.zip`](https://bsky.app/profile/did:plc:bmjomljebcsuxolnygfgqtap) має декілька списків на які можна підписатися щоб заігнорити або заблокувати русню.
 Нижче перелічені основні з них, але у профілі є також інші, які можливо будуть вам корисними.
 
-:::danger Вас заблоковано у [`@mods.mobik.zip`](https://bsky.app/profile/did:plc:bmjomljebcsuxolnygfgqtap)? Читайте тут[^2].
+:::danger Увага
+Вас заблоковано у [`@mods.mobik.zip`](https://bsky.app/profile/did:plc:bmjomljebcsuxolnygfgqtap)? Читайте тут[^2].
 :::
 
 Більше про те, як можна дерусифікувати контент онлайн, та запобігти російським результатам на запити українською мовою: [Як дерусифікувати контент в Google та YouTube](https://r.hostiq.ua/remove-russian-sites)
