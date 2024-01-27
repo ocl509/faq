@@ -1,3 +1,12 @@
-# F.A.Q. по Bluesky
+# uabluerail.org
 
-* [Тред з корисними порадами для тих хто недавно долучився](https://bsky.app/profile/uabluerail.org/post/3jwnqk27qs22j)
+Вміст сайту https://uabluerail.org, зроблений за допомогою Docusaurus.
+
+## Редагувати локально з live preview
+
+```sh
+yarn install
+yarn start
+```
+
+Після цього відкриється вікно браузера, де вміст буде оновлюватись автоматично при зміні файлів.
