@@ -110,8 +110,9 @@ sidebar_label: Забанити всю русню
 
 [^1]: Чому не варто споживати контент країни агресора?
 
-	![image](https://github.com/uabluerail/faq/assets/1822434/ba14d014-feef-4993-993c-0c0f08b9b1c5)
-	![image](https://github.com/uabluerail/faq/assets/1822434/75cdae19-1af8-4196-aaa2-65bfbc6341c6)
+	[<img src="https://github.com/uabluerail/faq/assets/1822434/ba14d014-feef-4993-993c-0c0f08b9b1c5" style={{width: 400}} target="_blank" />](https://github.com/uabluerail/faq/assets/1822434/ba14d014-feef-4993-993c-0c0f08b9b1c5)
+	[<img src="https://github.com/uabluerail/faq/assets/1822434/75cdae19-1af8-4196-aaa2-65bfbc6341c6" style={{width: 400}} target="_blank" />](https://github.com/uabluerail/faq/assets/1822434/75cdae19-1af8-4196-aaa2-65bfbc6341c6)
+
 	[`t.me/uawarinfographics`](https://t.me/uawarinfographics/3242)
 
 [^2]: Апеляції
