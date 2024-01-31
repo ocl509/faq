@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Забанити всю русню
+sidebar_label: Бойкот російського
 ---
 
 # Бойкот російського
