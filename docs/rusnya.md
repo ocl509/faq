@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Бойкот російського
+sidebar_label: Бойкот контенту агресора
 ---
 
 # Бойкот російського
