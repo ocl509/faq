@@ -11,7 +11,7 @@ sidebar_position: 1
 
 ## Основні стрічки
 
-* [🇺🇦 Всі](https://bsky.app/profile/did:plc:dvgliotey33vix3wlltybgkd/feed/all) - просто всі пости українців у хронологічному порядку
+* [🇺🇦 Всі](https://bsky.app/profile/did:plc:dvgliotey33vix3wlltybgkd/feed/all) - просто всі пости українською (від користувачів з каталогу) у хронологічному порядку
 * [🇺🇦 Всі+](https://bsky.app/profile/did:plc:dvgliotey33vix3wlltybgkd/feed/all-plus) - те ж саме, але тільки від тих на кого ви ще не підписані
 * [🇺🇦 Новенькі](https://bsky.app/profile/did:plc:dvgliotey33vix3wlltybgkd/feed/newcomers) - стрічка нових акаунтів, які потрапили до каталогу за останній тиждень
 * [UA fundraising](https://bsky.app/profile/did:plc:qgy7vt74xmouisyslwm3fgfj/feed/aaaapknzigxfi) - пости зі зборами
