@@ -111,6 +111,31 @@ sidebar_label: Бойкот контенту агресора
 
 Автоматично додаються ті хто підписані на хоча б один з кількох центральних акаунтів русні.
 
+від [`@evil.mathan.dev`](https://bsky.app/profile/did:plc:2yqylcqgxier4l5uplp6w6jh)
+
+### 11) [🇺🇦🤝🇷🇺🇧🇾🕊️ Дружби народів](https://bsky.app/profile/did:plc:2yqylcqgxier4l5uplp6w6jh/lists/3kkud7l6s4v2m) {#friendship-nations}
+
+Кластер "Дружби народів". Повністю автоматизовано.
+
+Застереження контенту: мова окупантів, совєцька ментальність, толерування контенту агресора, інформаційне обслуговування росіян.
+
+🇷🇺🤝🇺🇦🤝🇧🇾🤝🇬🇪🤝🇪🇪 🤝🇱🇻 🤝🇱🇹 🤝🇰🇿 ☮️🕊️
+
+щонайменше 40% мешканців кластеру - росіяни.
+
+від [`@evil.mathan.dev`](https://bsky.app/profile/did:plc:2yqylcqgxier4l5uplp6w6jh)
+
+### 12) [👁️‍🗨️🐸🐍 Пекельні борошна](https://bsky.app/profile/did:plc:2yqylcqgxier4l5uplp6w6jh/lists/3kjw6h7mo2t2k) {#ipso}
+
+Алгоритмічно виокремлений осередок ІПСО. Список автоматизовано.
+
+Що таке іпсо? 
+
+ч.1: https://armyinform.com.ua/2022/08/03/yak-rashystski-ipso-hovayutsya-za-ukrayinskoyu-symvolikoyu-v-ukrayinskomu-facebook/
+
+ч.2: https://armyinform.com.ua/2022/08/05/ipso-v-ukrayinskomu-infoprostori-yak-rozpiznaty/
+
+від [`@evil.mathan.dev`](https://bsky.app/profile/did:plc:2yqylcqgxier4l5uplp6w6jh)
 
 [^1]: Чому не варто споживати контент країни агресора?
 
