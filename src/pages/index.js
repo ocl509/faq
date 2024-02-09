@@ -32,7 +32,8 @@ export default function Home() {
           <h2>Вітаємо вас з прибуттям в c. Блакитне!</h2>
           <p>Тут зібрана деяка корисна інформація про Bluesky та українську спільноту в ньому.</p>
           <p><Link className={clsx('button button--lg button--primary')} href='./docs/'>Перейти</Link></p>
-          
+          <p><Link className={clsx('button button--lg button--primary')} href='./docs/twitter'>Міграція з хвіттера</Link></p>
+
           <h2>Нема кого читати?</h2>
           <p>Загляньте у стрічку "🇺🇦 Всі" і підпишіться на тих хто вам цікаві</p>
           <p><Link className={clsx('button button--lg button--primary')} href='https://bsky.app/profile/did:plc:dvgliotey33vix3wlltybgkd/feed/all' target="_blank">🇺🇦 Всі</Link></p>

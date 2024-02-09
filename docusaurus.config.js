@@ -80,6 +80,13 @@ const config = {
             position: 'left',
             label: 'Корисна інформація',
           },
+          {
+            type: 'doc',
+            docId: 'twitter',
+            position: 'left',
+            label: 'Перехід з хвіттера',
+          },
+
         ],
       },
       footer: {
